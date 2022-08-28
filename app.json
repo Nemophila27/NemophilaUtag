@@ -28,7 +28,7 @@
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
-         "value": "18049084" 
+         "value": "18049084"
       },
       "API_HASH": {
          "description": "my.telegram.org adresindən API HASH alın",
