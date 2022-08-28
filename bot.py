@@ -74,7 +74,7 @@ async def info(event):
   await event.reply("**Merhaba Benim Ve Sahibim Hakkında Bilgi\n\nPython: 3.8.2\nKütüphanem: Telethon\n\nSahibim:  Gruplarınızda Üyeleri Etiketlemek için Yaratılmışım**",
                     buttons=(
                       [
-                       Button.url('Beni Grubuna Ekle ➕', 'https://t.me/Startaggerbot?startgroup=a')
+                       Button.url('Beni Grubuna Ekle ➕', 'https://t.me/lionusertaggerbot?startgroup=a')
                       ],
                       [
                        Button.url('📢 Kanal', 'https://t.me/lionbotchannell'),
@@ -103,7 +103,7 @@ async def start(event):
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/StartaggerBot?startgroup=a'),
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/lionusertaggerbot?startgroup=a'),
                        Button.url('Kanal', 'https://t.me/lionbotchannell')
                       ],
                       [
