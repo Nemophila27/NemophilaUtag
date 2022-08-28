@@ -126,7 +126,7 @@ async def handler(event):
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/StartaggerBot?startgroup=a'),
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/lionusertaggerbot?startgroup=a'),
                        Button.url('Kanal', 'https://t.me/lionbotchannell')
                       ],
                       [
