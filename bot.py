@@ -77,12 +77,9 @@ async def info(event):
                        Button.url('Beni Grubuna Ekle ➕', 'https://t.me/Startaggerbot?startgroup=a')
                       ],
                       [
-                       Button.url('📢 Kanal', 'https://t.me/StarBotKanal'),
-                       Button.url('🇹🇷 Sahibim', 'https://t.me/Hayiboo')
-                      ],
-                      [
-                       Button.url('🧑🏻‍💻 ɢɪᴛʜᴜʙ ᴋᴀʏɴᴀᴋ ᴋᴏᴅᴜ 🧑🏻‍💻', 'https://github.com/MehmetAtes21/Tagger')
-                      ],
+                       Button.url('📢 Kanal', 'https://t.me/lionbotchannell'),
+                       Button.url('🇹🇷 Sahibim', 'https://t.me/alexx745alejandro')
+                      ]
                     ),
                     link_preview=False
                    )
@@ -107,10 +104,10 @@ async def start(event):
                       ],
                       [
                        Button.url('Beni Grubuna Ekle', 'https://t.me/StartaggerBot?startgroup=a'),
-                       Button.url('Kanal', 'https://t.me/StarBotKanal')
+                       Button.url('Kanal', 'https://t.me/lionbotchannell')
                       ],
                       [
-                       Button.url('Sahibim', 'https://t.me/Hayiboo')
+                       Button.url('Sahibim', 'https://t.me/alexx745alejandro')
                       ],
                     ),
                     link_preview=False)
@@ -130,10 +127,10 @@ async def handler(event):
                       ],
                       [
                        Button.url('Beni Grubuna Ekle', 'https://t.me/StartaggerBot?startgroup=a'),
-                       Button.url('Kanal', 'https://t.me/StarBotKanal')
+                       Button.url('Kanal', 'https://t.me/lionbotchannell')
                       ],
                       [
-                       Button.url('Sahibim', 'https://t.me/Hayiboo')
+                       Button.url('Sahibim', 'https://t.me/alexx745alejandro')
                       ],
                     ),
                     link_preview=False)
@@ -702,5 +699,5 @@ class LAN(object):
         TOTAL_BLOCK = "🚷 **Ümumi əngəllənən:** `{}`\n\n{}"
 
 app.run()
-print(">> Bot çalışıyor @Hayiboo Tarafından Kuruldu<<")
+print(">> Bot çalışıyor @alexx745alejandro Tarafından Kuruldu<<")
 client.run_until_disconnected()
