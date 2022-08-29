@@ -8,7 +8,7 @@
       },
       "DATABASE_URL": {
          "description": "MongoDB veritabanınizi girin .",
-         "value": "" 
+         "value": "mongodb+srv://alexx745alejandro:<password>@cluster0.qso1xbz.mongodb.net/?retryWrites=true&w=majority" 
       "OWNER_ID": {
          "description": "Hesabinizin İd'sini yazın.",
          "value": "5033264822" 
