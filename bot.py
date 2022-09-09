@@ -123,7 +123,7 @@ async def handler(event):
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a')
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'), 
                        Button.url('Sahibim', 'https://t.me/pikachuuuux')
                       ],
                     ),
