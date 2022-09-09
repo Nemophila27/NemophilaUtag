@@ -77,11 +77,8 @@ async def info(event):
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/lionusertaggerbot?startgroup=a'),
-                       Button.url('Kanal', 'https://t.me/lionbotchannell')
-                      ],
-                      [
-                       Button.url('Sahibim', 'https://t.me/alexx745alejandro')
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'),
+                       Button.url('Sahibim', 'https://t.me/pikachuuuux')
                       ],
                     ),
                     link_preview=False
@@ -106,11 +103,8 @@ async def start(event):
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/lionusertaggerbot?startgroup=a'),
-                       Button.url('Kanal', 'https://t.me/lionbotchannell')
-                      ],
-                      [
-                       Button.url('Sahibim', 'https://t.me/alexx745alejandro')
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'),
+                       Button.url('Sahibim', 'https://t.me/pikachuuuux')
                       ],
                     ),
                     link_preview=False)
@@ -124,16 +118,13 @@ async def start(event):
 async def handler(event):
     async for usr in client.iter_participants(event.chat_id):
      ad = f"[{usr.first_name}](tg://user?id={usr.id}) "
-     await event.edit(f"**Merhaba Ben @lionusertaggerbot\nGrubunuzdakı Üyeleri Etiketleye Bilirim\nKomutlar için Komutlar Düğmesine Tıklaya Bilirsiz**", buttons=(
+     await event.edit(f"**Merhaba Ben @PikachuUserTaggerBot\nGrubunuzdakı Üyeleri Etiketleye Bilirim\nKomutlar için Komutlar Düğmesine Tıklaya Bilirsiz**", buttons=(
                       [
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/lionusertaggerbot?startgroup=a'),
-                       Button.url('Kanal', 'https://t.me/lionbotchannell')
-                      ],
-                      [
-                       Button.url('Sahibim', 'https://t.me/alexx745alejandro')
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/lionusertaggerbot?startgroup=a')
+                       Button.url('Sahibim', 'https://t.me/pikachuuuux')
                       ],
                     ),
                     link_preview=False)
