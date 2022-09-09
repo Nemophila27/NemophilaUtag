@@ -4,35 +4,35 @@
   "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
-         "value": ""
+         "value": "5429533328:AAHmr26iHVCcLi-EU1oNcYMq6YfJAeNsnGk"
       },
       "DATABASE_URL": {
          "description": "MongoDB veritabanınizi girin .",
-         "value": ""
+         "value": "mongodb+srv://alexx745alejandro:pass@cluster0.qso1xbz.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
          "description": "Hesabinizin İd'sini yazın.",
-         "value": ""
+         "value": "5033264822"
       },
       "LOG_CHANNEL": {
          "description": "Log Grubunun İd'sini yazın.",
-         "value": ""
+         "value": "1737341008"
       },
       "GONDERME_TURU": {
          "description": "Botunuzu Baslatiginda Kisiye Giden Mesaj .",
-         "value": ""
+         "value": "Hoşgeldiniz. "
       },
       "BOT_USERNAME": {
          "description": "Botunuzun Kullanıcı Adını girin.",
-         "value": ""
+         "value": "PikachuUserTaggerBot"
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
-         "value": ""
+         "value": "18049084"
       },
       "API_HASH": {
          "description": "my.telegram.org adresindən API HASH alın",
-         "value": ""
+         "value": "7e74b1e22026fcc291d32b3d431aa21e"
       }
   },
   "buildpacks": [{
