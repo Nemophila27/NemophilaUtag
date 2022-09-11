@@ -80,6 +80,9 @@ async def info(event):
                        Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'),
                        Button.url('Sahibim', 'https://t.me/pikachuuuux')
                       ],
+                      [
+                       Button.url('💵Bağış', 'https://www.buymeacoffee.com/pikachuuux')
+                      ],
                     ),
                     link_preview=False
                    )
@@ -106,6 +109,7 @@ async def start(event):
                        Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'),
                        Button.url('Sahibim', 'https://t.me/pikachuuuux')
                       ],
+
                     ),
                     link_preview=False)
 
@@ -125,6 +129,9 @@ async def handler(event):
                       [
                        Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'), 
                        Button.url('Sahibim', 'https://t.me/pikachuuuux')
+                      ],
+                      [
+                       Button.url('💵Bağış', 'https://www.buymeacoffee.com/pikachuuux')
                       ],
                     ),
                     link_preview=False)
