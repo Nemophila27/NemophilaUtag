@@ -77,8 +77,8 @@ async def info(event):
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'),
-                       Button.url('Sahibim', 'https://t.me/pikachuuuux')
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/opticiankaya_bot?startgroup=a'),
+                       Button.url('Sahibim', 'https://t.me/Adresyok')
                       ],
                       
                     ),
@@ -104,8 +104,8 @@ async def start(event):
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'),
-                       Button.url('Sahibim', 'https://t.me/pikachuuuux')
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/opticiankaya_bot?startgroup=a'),
+                       Button.url('Sahibim', 'https://t.me/Adresyok')
                       ],
 
                     ),
@@ -120,17 +120,15 @@ async def start(event):
 async def handler(event):
     async for usr in client.iter_participants(event.chat_id):
      ad = f"[{usr.first_name}](tg://user?id={usr.id}) "
-     await event.edit(f"**Merhaba Ben @PikachuUserTaggerBot\nGrubunuzdakı Üyeleri Etiketleye Bilirim\nKomutlar için Komutlar Düğmesine Tıklaya Bilirsiz**", buttons=(
+     await event.edit(f"**Merhaba Ben @opticiankaya_bot\nGrubunuzdakı Üyeleri Etiketleye Bilirim\nKomutlar için Komutlar Düğmesine Tıklaya Bilirsiz**", buttons=(
                       [
                        Button.inline("Komutlar", data="komutlar")
                       ],
                       [
-                       Button.url('Beni Grubuna Ekle', 'https://t.me/PikachuUserTaggerBot?startgroup=a'), 
-                       Button.url('Sahibim', 'https://t.me/pikachuuuux')
+                       Button.url('Beni Grubuna Ekle', 'https://t.me/opticiankaya_bot?startgroup=a'), 
+                       Button.url('Sahibim', 'https://t.me/Adresyok')
                       ],
-                      [
-                       Button.url('💵Bağış', 'https://www.buymeacoffee.com/pikachuuux')
-                      ],
+                      
                     ),
                     link_preview=False)
 
