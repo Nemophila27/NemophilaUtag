@@ -24,7 +24,7 @@
       },
       "BOT_USERNAME": {
          "description": "Botunuzun Kullanıcı Adını girin.",
-         "value": "PikachuUserTaggerBot"
+         "value": "opticiankaya_bot"
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
