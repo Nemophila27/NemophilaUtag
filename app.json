@@ -8,7 +8,7 @@
       },
       "DATABASE_URL": {
          "description": "MongoDB veritabanınizi girin .",
-         "value": "mongodb+srv://Nemophila27:<password>@cluster0.lu2naxe.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://nemophila:<password>@cluster0.xeh52gk.mongodb.net/?retryWrites=true&w=majority" 
       },
       "OWNER_ID": {
          "description": "Hesabinizin İd'sini yazın.",
