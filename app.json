@@ -8,7 +8,7 @@
       },
       "DATABASE_URL": {
          "description": "MongoDB veritabanınizi girin .",
-         "value": "mongodb+srv://Pikachu:<password>@cluster0.pdldipl.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://Nemophila27:<password>@cluster0.lu2naxe.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
          "description": "Hesabinizin İd'sini yazın.",
