@@ -4,7 +4,7 @@
   "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
-         "value": "5429533328:AAHmr26iHVCcLi-EU1oNcYMq6YfJAeNsnGk"
+         "value": "5686605165:AAHyISBw-ZsE7VUm19WllU-hUgDtI9nOEbM"
       },
       "DATABASE_URL": {
          "description": "MongoDB veritabanınizi girin .",
