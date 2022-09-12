@@ -79,8 +79,7 @@ async def info(event):
                       [
                        Button.url('Beni Grubuna Ekle', 'https://t.me/opticiankaya_bot?startgroup=a'),
                        Button.url('Sahibim', 'https://t.me/Adresyok')
-                      ],
-                      
+                      ],            
                     ),
                     link_preview=False
                    )
@@ -107,7 +106,6 @@ async def start(event):
                        Button.url('Beni Grubuna Ekle', 'https://t.me/opticiankaya_bot?startgroup=a'),
                        Button.url('Sahibim', 'https://t.me/Adresyok')
                       ],
-
                     ),
                     link_preview=False)
 
@@ -127,8 +125,7 @@ async def handler(event):
                       [
                        Button.url('Beni Grubuna Ekle', 'https://t.me/opticiankaya_bot?startgroup=a'), 
                        Button.url('Sahibim', 'https://t.me/Adresyok')
-                      ],
-                      
+                      ],                    
                     ),
                     link_preview=False)
 
